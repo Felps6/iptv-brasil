@@ -1,78 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AXN.br@SD" tvg-name="AXN" group-title="Filmes e Séries",AXN
+#EXTINF:-1 tvg-id="AXN.br@SD",AXN
 http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD" tvg-name="Band" group-title="TV Aberta",Band
+#EXTINF:-1 tvg-id="Band.br@SD",Band
 http://170.84.165.204/BAND_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="Band Sports" group-title="Esportes",Band Sports
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="Band News" group-title="Notícias",Band News
+#EXTINF:-1 tvg-id="BandNews.br@SD",Band News
 https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BoxKidsTV.br@SD" tvg-name="Box Kids TV" group-title="Infantil",Box Kids TV
+#EXTINF:-1 tvg-id="BoxKidsTV.br@SD",Box Kids TV
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educação" group-title="Educação e Variedades",Canal Educação
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura" group-title="Educação e Variedades",Canal Futura
+#EXTINF:-1 tvg-id="CanalFutura.br@SD",Canal Futura
 http://45.162.64.114/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="CanalUOL.br@SD" tvg-name="Canal UOL" group-title="Notícias",Canal UOL
+#EXTINF:-1 tvg-id="CanalUOL.br@SD",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazéTV" group-title="Esportes",CazéTV
+#EXTINF:-1 tvg-id="CazeTV.br@SD",CazéTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="ChefTV.br@SD" tvg-name="ChefTV" group-title="Educação e Variedades",ChefTV
+#EXTINF:-1 tvg-id="ChefTV.br@SD",ChefTV
 http://168.197.104.22/CHEF_TV/index.m3u8
-#EXTINF:-1 tvg-id="Combate.br@SD" tvg-name="Combate" group-title="Esportes",Combate
+#EXTINF:-1 tvg-id="Combate.br@SD",Combate
 http://143.14.134.107/167/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN" group-title="Esportes",ESPN
+#EXTINF:-1 tvg-id="ESPN.br@SD",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN 3" group-title="Esportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.br@SD",ESPN 3
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4" group-title="Esportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br@SD",ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="Futura.br@SD" tvg-name="Futura" group-title="Educação e Variedades",Futura
+#EXTINF:-1 tvg-id="Futura.br@SD",Futura
 http://168.197.104.22/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-name="GloboNews" group-title="Notícias",GloboNews
+#EXTINF:-1 tvg-id="GloboNews.br@SD",GloboNews
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
-#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" tvg-name="Globoplay Novelas" group-title="Filmes e Séries",Globoplay Novelas
+#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD",Globoplay Novelas
 http://170.82.202.31/Viva/index.m3u8
-#EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-name="Gospel Cartoon" group-title="Infantil",Gospel Cartoon
+#EXTINF:-1 tvg-id="GospelCartoon.br@SD",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="History.br@SD" tvg-name="History" group-title="Filmes e Séries",History
+#EXTINF:-1 tvg-id="History.br@SD",History
 http://45.177.114.114/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News" group-title="Notícias",Jovem Pan News
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="NSports.br@SD" tvg-name="N Sports" group-title="Esportes",N Sports
+#EXTINF:-1 tvg-id="NSports.br@SD",N Sports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-name="NickOnlineHD" group-title="Infantil",NickOnlineHD
+#EXTINF:-1 tvg-id="NickOnline.br@HD",NickOnlineHD
 https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-name="NickToons Brasil" group-title="Infantil",NickToons Brasil
+#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD",NickToons Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-id="Record.br@SD" tvg-name="Record" group-title="TV Aberta",Record
+#EXTINF:-1 tvg-id="Record.br@SD",Record
 http://170.84.165.204/Record_HD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News" group-title="Notícias",Record News
+#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="RedeFamilia.br@SD" tvg-name="Rede Família" group-title="TV Aberta",Rede Família
+#EXTINF:-1 tvg-id="RedeFamilia.br@SD",Rede Família
 http://168.197.104.22/REDE_FAMILIA/index.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="Rede Globo" group-title="TV Aberta",Rede Globo
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
-#EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-name="Rede Minas" group-title="TV Aberta",Rede Minas
+#EXTINF:-1 tvg-id="RedeMinas.br@SD",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV" group-title="TV Aberta",Rede TV
+#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV
 http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-name="Rede TV! Mais" group-title="TV Aberta",Rede TV! Mais
+#EXTINF:-1 tvg-id="RedeTVMais.br@SD",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-name="SBT Interior" group-title="TV Aberta",SBT Interior
+#EXTINF:-1 tvg-id="SBTInterior.br@SD",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTKids.br@SD" tvg-name="SBT Kids" group-title="Infantil",SBT Kids
+#EXTINF:-1 tvg-id="SBTKids.br@SD",SBT Kids
 https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional" group-title="TV Aberta",SBT Nacional
+#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-name="SBT News" group-title="Notícias",SBT News
+#EXTINF:-1 tvg-id="SBTNews.br@SD",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-name="Sony Channel" group-title="Filmes e Séries",Sony Channel
+#EXTINF:-1 tvg-id="SonyChannel.br@SD",Sony Channel
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies" group-title="Filmes e Séries",Sony Movies
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-name="SporTV 3" group-title="Esportes",SporTV 3
+#EXTINF:-1 tvg-id="SporTV3.br@SD",SporTV 3
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-name="Nickelodeon" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.br@SD",Nickelodeon
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8

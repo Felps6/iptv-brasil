@@ -730,3 +730,107 @@ http://espnsp10.com:80/a69022841/112233Aa/276090.ts
 http://espnsp10.com:80/a69022841/112233Aa/276091.ts
 #EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://espnsp10.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 4K
 http://espnsp10.com:80/a69022841/112233Aa/103471.ts
+#EXTINF:-1 tvg-name="CNN Brasil 4K" tvg-logo="http://espnsp10.com/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil 4K
+http://espnsp10.com:80/a69022841/112233Aa/71798.ts
+#EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-logo="http://espnsp10.com/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD
+http://espnsp10.com:80/a69022841/112233Aa/71837.ts
+#EXTINF:-1 tvg-name="CNN Brasil FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/71838.ts
+#EXTINF:-1 timeshift="7" tvg-name="CNN Brasil HD" tvg-logo="http://espnsp10.com/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
+http://espnsp10.com:80/a69022841/112233Aa/71839.ts
+#EXTINF:-1 tvg-name="CNN Brasil SD" tvg-logo="http://espnsp10.com/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil SD
+http://espnsp10.com:80/a69022841/112233Aa/71840.ts
+#EXTINF:-1 tvg-name="Discovery Science 4K" tvg-logo="http://espnsp10.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science 4K
+http://espnsp10.com:80/a69022841/112233Aa/103511.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="http://espnsp10.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+http://espnsp10.com:80/a69022841/112233Aa/71875.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/71876.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Science HD" tvg-logo="http://espnsp10.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://espnsp10.com:80/a69022841/112233Aa/71877.ts
+#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="http://espnsp10.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+http://espnsp10.com:80/a69022841/112233Aa/71878.ts
+#EXTINF:-1 tvg-name="Discovery Turbo 4K" tvg-logo="http://espnsp10.com/static/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo 4K
+http://espnsp10.com:80/a69022841/112233Aa/90641.ts
+#EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://espnsp10.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo FHD
+http://espnsp10.com:80/a69022841/112233Aa/71883.ts
+#EXTINF:-1 tvg-name="Discovery Turbo FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/71884.ts
+#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://espnsp10.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo HD
+http://espnsp10.com:80/a69022841/112233Aa/71885.ts
+#EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="http://espnsp10.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo SD
+http://espnsp10.com:80/a69022841/112233Aa/71886.ts
+#EXTINF:-1 tvg-name="GNT 4K" tvg-logo="http://espnsp10.com/static/logos/canais/gnt.png" group-title="Canais | Variedades",GNT 4K
+http://espnsp10.com:80/a69022841/112233Aa/90638.ts
+#EXTINF:-1 tvg-name="GNT FHD" tvg-logo="http://espnsp10.com/static/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
+http://espnsp10.com:80/a69022841/112233Aa/72102.ts
+#EXTINF:-1 tvg-name="GNT FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/72103.ts
+#EXTINF:-1 tvg-name="GNT HD" tvg-logo="http://espnsp10.com/static/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
+http://espnsp10.com:80/a69022841/112233Aa/72104.ts
+#EXTINF:-1 tvg-name="GNT SD" tvg-logo="http://espnsp10.com/static/logos/canais/gnt.png" group-title="Canais | Variedades",GNT SD
+http://espnsp10.com:80/a69022841/112233Aa/131136.ts
+#EXTINF:-1 tvg-name="ID 4K" tvg-logo="http://espnsp10.com/static/logos/canais/id.png" group-title="Canais | Documentários",ID 4K
+http://espnsp10.com:80/a69022841/112233Aa/90243.ts
+#EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://espnsp10.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID FHD
+http://espnsp10.com:80/a69022841/112233Aa/72150.ts
+#EXTINF:-1 tvg-name="ID FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/id.png" group-title="Canais | Documentários",ID FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/72151.ts
+#EXTINF:-1 timeshift="7" tvg-name="ID HD" tvg-logo="http://espnsp10.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
+http://espnsp10.com:80/a69022841/112233Aa/72152.ts
+#EXTINF:-1 tvg-name="ID SD" tvg-logo="http://espnsp10.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID SD
+http://espnsp10.com:80/a69022841/112233Aa/72153.ts
+#EXTINF:-1 tvg-name="Megapix 4K" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix 4K
+http://espnsp10.com:80/a69022841/112233Aa/131104.ts
+#EXTINF:-1 tvg-name="Megapix FHD" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+http://espnsp10.com:80/a69022841/112233Aa/72166.ts
+#EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/72167.ts
+#EXTINF:-1 tvg-name="Megapix FHD [LEG]" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Legendados",Megapix FHD [LEG]
+http://espnsp10.com:80/a69022841/112233Aa/90680.ts
+#EXTINF:-1 timeshift="7" tvg-name="Megapix HD" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://espnsp10.com:80/a69022841/112233Aa/72169.ts
+#EXTINF:-1 tvg-name="Megapix HD [LEG]" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Legendados",Megapix HD [LEG]
+http://espnsp10.com:80/a69022841/112233Aa/131118.ts
+#EXTINF:-1 tvg-name="Megapix SD" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
+http://espnsp10.com:80/a69022841/112233Aa/131204.ts
+#EXTINF:-1 tvg-name="Megapix SD [LEG]" tvg-logo="http://espnsp10.com/static/logos/canais/megapix.png" group-title="Canais | Legendados",Megapix SD [LEG]
+http://espnsp10.com:80/a69022841/112233Aa/131171.ts
+#EXTINF:-1 tvg-name="Multishow 4K" tvg-logo="http://espnsp10.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow 4K
+http://espnsp10.com:80/a69022841/112233Aa/131138.ts
+#EXTINF:-1 tvg-name="Multishow FHD" tvg-logo="http://espnsp10.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD
+http://espnsp10.com:80/a69022841/112233Aa/131193.ts
+#EXTINF:-1 tvg-name="Multishow FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/131107.ts
+#EXTINF:-1 tvg-name="Multishow HD" tvg-logo="http://espnsp10.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow HD
+http://espnsp10.com:80/a69022841/112233Aa/72182.ts
+#EXTINF:-1 tvg-name="Multishow SD" tvg-logo="http://espnsp10.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow SD
+http://espnsp10.com:80/a69022841/112233Aa/131134.ts
+#EXTINF:-1 tvg-name="USA Network FHD" tvg-logo="http://espnsp10.com/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network FHD
+http://espnsp10.com:80/a69022841/112233Aa/72338.ts
+#EXTINF:-1 tvg-name="USA Network FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/72339.ts
+#EXTINF:-1 timeshift="7" tvg-name="USA Network HD" tvg-logo="http://espnsp10.com/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network HD
+http://espnsp10.com:80/a69022841/112233Aa/72340.ts
+#EXTINF:-1 tvg-name="USA Network SD" tvg-logo="http://espnsp10.com/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network SD
+http://espnsp10.com:80/a69022841/112233Aa/72341.ts
+#EXTINF:-1 tvg-name="Band News 4K" tvg-logo="http://espnsp10.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News 4K
+http://espnsp10.com:80/a69022841/112233Aa/103526.ts
+#EXTINF:-1 tvg-name="Band News FHD" tvg-logo="http://espnsp10.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
+http://espnsp10.com:80/a69022841/112233Aa/71789.ts
+#EXTINF:-1 tvg-name="Band News FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/71790.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band News HD" tvg-logo="http://espnsp10.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
+http://espnsp10.com:80/a69022841/112233Aa/71791.ts
+#EXTINF:-1 tvg-name="Band News SD" tvg-logo="http://espnsp10.com/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Notícias",Band News SD
+http://espnsp10.com:80/a69022841/112233Aa/71792.ts
+#EXTINF:-1 tvg-name="Globo News 4K" tvg-logo="http://espnsp10.com/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News 4K
+http://espnsp10.com:80/a69022841/112233Aa/90248.ts
+#EXTINF:-1 tvg-name="Globo News FHD" tvg-logo="http://espnsp10.com/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD
+http://espnsp10.com:80/a69022841/112233Aa/71997.ts
+#EXTINF:-1 tvg-name="Globo News FHD [H265]" tvg-logo="http://espnsp10.com/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD [H265]
+http://espnsp10.com:80/a69022841/112233Aa/71998.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo News HD" tvg-logo="http://espnsp10.com/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
+http://espnsp10.com:80/a69022841/112233Aa/71999.ts
+#EXTINF:-1 tvg-name="Globo News SD" tvg-logo="http://espnsp10.com/static/logos/canais/globo.png" group-title="Canais | Notícias",Globo News SD
+http://espnsp10.com:80/a69022841/112233Aa/131112.ts
